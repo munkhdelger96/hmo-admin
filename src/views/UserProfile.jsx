@@ -38,7 +38,7 @@ class UserProfile extends React.Component {
       <>
         <div className="content">
           <Row>
-            <Col md="8">
+            <Col md="12">
               <Card>
                 <CardHeader>
                   <h5 className="title">Бүтээгдэхүүн нэмэх</h5>
